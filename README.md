@@ -6,17 +6,5 @@ A modern theme for Orbbec 3D Forum
 
 ### Homepage (categories)
 
-![main](.github/images/main.jpg)
-![categories](.github/images/categories.jpg)
+![main](.github/images/home.jpg)
 
-### Latest
-
-![main](.github/images/topic-list.jpg)
-
-### Topic
-
-![main](.github/images/topic.jpg)
-
-### Advanced Search
-
-![main](.github/images/advanced-search.jpg)
